@@ -35,4 +35,7 @@ environment for testing.</i>
 <i>LCD initialization, display control,
 cursor positioning implemented.</i>
 
+The project report , details , output results , code and everything is shared in the repository 
+Thank you !
+
 
